@@ -1,0 +1,123 @@
+{
+    "header":{
+        "main": {
+            "Home": "Home",
+            "About": "About",
+            "Service": "Service",
+            "Contact": "Contact"
+        },
+     "text": "Full Solution",
+     "text_": "for your",
+     "text2_": "Business",
+     "text3_": "Development",
+     "text2": "Get Started",    
+     "text3": "Book a Meeting",
+     "newtext": "About Us",
+     "newtext1": "Please rationally encounter consequences",
+     "newtext2": "are extremely painful. great oppurtunity",
+     "newtext3": "Our Services"
+    },
+    "body":{
+        "text": "FEATURES",
+        "text2": "We are",
+        "text2_" : "different",
+        "text3_" : "because...",
+        "text3": "Pleasure rationally encounter consequences that are extremely painful. Nor",
+        "text4": "again is there anyone who loves or pursues or desires to obtain",
+        "security": "Strong Security",
+        "idea": "Creative Idea",
+        "service": "Best Service",
+        "underall": "Pleasure rationally encounter are extremely painful anyone who loves or pursues",
+        "aboutus": "About Us",
+        "aboutus_": "Best",
+        "aboutus1_": "Digital Agency",
+        "aboutus2_": "in the town",
+        "underab": {
+         "text": "Pleasure rationally encounter consequences that are",
+         "text2": "extremely painful. Nor again is there anyone who loves or",
+         "text2_": "painful. Nor again is there anyone who pursues",
+         "text3": "pursues or desires to obtain",
+         "text4": "Pleasure rationally encounter consequences that are",
+         "text5": "extremely painful. Nor again is there",
+         "text6": "Pleasure rationally encounter consequences that",
+         "text7": "are extremely painful. Nor again is there"
+        },
+        "underaboutus": "Science",
+        "underaboutus2": "Learn More",
+        "services":{
+            "text": "SERVICES",
+            "text2": "Check",
+            "text2_": "our",
+            "text3": "Services",
+            "digital": "Digital Solution",
+            "bussiness": "Business Plan",
+            "creative": "Creative Strategy",
+            "brand": "Branding",
+            "policy": "Marketing Policy",
+            "PR": "Campaign & PR",
+            "main": "Pleasure rationally service",
+            "main2": "are anyone who pursues"
+        },
+        "projects":{
+        "text1": "Projects done",
+        "text2": "Happy Clients",
+        "text3": "Cup Coffee",
+        "text4": "Award Wins"
+        },
+        "testim": "TESTIMONIALS",
+        "undertestim": "Dont Believe us",
+        "undertestim_": "Check",
+        "undertestim__": "Clients",
+        "undertestim___": "Word",
+        "undertestim2": "More over 2500 happy customer",
+        "undertestim3": "Don’t Look",
+        "undertestim3_": "Back",
+        "peoples":{
+            "text1": "People,",
+            "text2": "Behind",
+            "text3": "the",
+            "text4": "Screen"
+        },
+        "carousel": {
+            "text": "Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires maintain"
+        },
+        "news":{
+            "text1": "NEWSLETTER",
+            "text2": "Subscribe",
+            "text3": "Newsletter",
+            "text4": "&",
+            "text5": "get latest update...",
+            "email": "Email"
+        },
+        "footers":{
+            "main":{
+                "text1": "Pleasure rationally encounter",
+                "text2": "consequences that are extremely",
+                "text3": "painful. Nor again is there"
+                },
+            "quick":{
+                "main": "Quick Link",
+                "aboutus": "About Us",
+                "price": "Pricing plan",
+                "cond": "Conditions",
+                "blog": "Blog Post",
+                "clients": "Our Clients",
+                "us": "Contact Us"
+            },
+            "services":{
+                "main": "Services",
+                "business": "Bussiness Plan",
+                "creative": "Creative Strategy",
+                "brand": "Branding",
+                "solution": "Digital Solution",
+                "police": "Marketing Policy",
+                "pr": "Campaign и PR"
+            },
+            "contactinfo":{
+                "main": "Contact Info",
+                "address": "245 Southern Street, Apt. 147",
+                "address2": "New York, USA"
+            }
+        }
+    }
+}
